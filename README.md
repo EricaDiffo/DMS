@@ -12,3 +12,4 @@ Delivery driver performance and delivery efficiency reports
 Security and confidentiality of data for delivery people and companies
 Possibility for delivery people to contact support if necessary
 
+Targeting Commercial Enterprises 
