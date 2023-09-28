@@ -1,7 +1,7 @@
 # FAST-EXPRESS
 Welcome to the Delivery Management Application! Our delivery site is an online platform that offers a practical and efficient solution for customers who wish to receive products or packages quickly
 Functions
-Integration with third-party delivery people with their consents
+Interaction with third-party delivery people with their consents
 Direct communication with delivery people via the app 
 Assign delivery tasks to available delivery people
 Real-time updates on delivery status 
