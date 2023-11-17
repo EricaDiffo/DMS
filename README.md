@@ -1,4 +1,4 @@
-# FAST-EXPRESS
+# DMS
 Welcome to the Delivery Management Application! Our delivery site is an online platform that offers a practical and efficient solution for customers who wish to receive products or packages quickly
 Functions
 Interaction with third-party delivery people with their consents
