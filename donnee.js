@@ -181,7 +181,7 @@ app.post('/connexionA', (req, res) => {
     if (results.length > 0) {
       // L'utilisateur est connecté avec succès
       //res.send('Connexion réussie !');
-      res.redirect('/Dash/adminhub/index.html');
+      res.redirect('/Dash/Customer/client.html');
       
     } else {
       // Les informations de connexion sont incorrectes
